@@ -6,6 +6,8 @@
 
  # STEP 1
 -> Changer le token du bot sinon il ne sera pas lancer !
+![image](https://github.com/RitoOFF/Bot-MCQUERY/assets/125696277/84bda552-4786-4a41-adaa-b39917ed538e)
+
 
 
  # STEP 2
