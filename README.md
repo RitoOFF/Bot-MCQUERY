@@ -5,8 +5,10 @@
  /!\ Avant tout penser a suivre c'est étape et ce mini didactacielle  /!\
 
  # STEP 1
--> Changer le token du bot sinon il ne sera pas lancer !
+-> Changer le token du bot sinon il ne sera pas lancer (ou c'est marquer "TOKEN" rentrez votre token de votre bot) !
 ![image](https://github.com/RitoOFF/Bot-MCQUERY/assets/125696277/84bda552-4786-4a41-adaa-b39917ed538e)
+![image](https://github.com/RitoOFF/Bot-MCQUERY/assets/125696277/66bf09ce-e53d-4f1f-9aab-215672292b6d)
+
 
 
 
